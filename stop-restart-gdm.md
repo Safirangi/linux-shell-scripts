@@ -6,4 +6,4 @@
 
 to restart the gdm, `ALT + F2`, then login in the terminal console and run the following command
 
-`sudo systemctl restart gdm`
+`sudo systemctl start gdm`
